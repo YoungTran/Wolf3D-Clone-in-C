@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "wolf.h": "c",
-        "limits": "c",
-        "type_traits": "c"
-    },
-    "C_Cpp.errorSquiggles": "Disabled"
-}
